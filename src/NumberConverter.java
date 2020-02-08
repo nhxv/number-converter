@@ -63,9 +63,7 @@ public class NumberConverter {
                 binary = convertDecimal(Integer.parseInt(decimal), 2);
                 octa = convertDecimal(Integer.parseInt(decimal), 8);
                 hexa = convertDecimal(Integer.parseInt(decimal), 16);
-                String nine = convertDecimal(Integer.parseInt(decimal), 9);
                 System.out.println("Binary: " + binary);
-                System.out.println("Nine base: " + nine);
                 System.out.println("Octa: " + octa);
                 System.out.println("Hexa: " + hexa);
                 break;
