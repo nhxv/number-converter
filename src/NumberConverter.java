@@ -85,7 +85,6 @@ public class NumberConverter {
      * Convert number from 2, 8, 16 base to decimal base
      * @param other
      * @param base
-     * @return
      */
     private static String convertToDecimal(String other, int base) {
         int counter = other.length() - 1;
