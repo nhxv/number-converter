@@ -1,6 +1,3 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.IllegalFormatException;
 import java.util.Scanner;
 
 /**
